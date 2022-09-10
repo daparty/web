@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# PADs, Partidos Autónomos Descentralizados
 
-You can use the [editor on GitHub](https://github.com/daparty/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_con la colaboración de los miembros del grupo de Telegram https://t.me/+wi6-u54beJ5hMTA8_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La tecnología actual permite crear partidos políticos basados en DAOs, Organizaciones Autónomas Descentralizadas, que sean democráticos, imparables e indestructibles, y que a la vez sirvan como herramienta facilitadora de la democracia directa y/o líquida (delegativa revocable) permitiendo participar a los ciudadanos en las votaciones y decisiones en las instituciones en las que estos partidos tengan representación.
 
-### Markdown
+Los PAD pueden aportar unas mayores cotas de democracia a los ciudadanos sin necesidad de cambiar ni una sola coma de la ley electoral o cualquier otra.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los PADs permiten a su vez crear sistemas de control y auditoría ciudadana de procesos y organismos del Estado, como son censos o sistemas avanzados de consultas de opinión. También permiten crear sistemas de organización avanzados para la Sociedad Civil.
 
-```markdown
-Syntax highlighted code block
+El sistema de funcionamiento de un PAD sirve para partidos nuevos o partidos que ya están creados y en funcionamiento, tengan responsabilidades de gobierno actualmente o no, defiendan una ideología o ninguna, un programa político o ninguno. Los PAD también podrían ser Agrupaciones de Electores y por tanto sus siglas serían AEAD (Agrupación de electores Autónoma Descentralizada).
 
-# Header 1
-## Header 2
-### Header 3
+## Constitución española de 1978 / Artículo 6
+Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
 
-- Bulleted
-- List
+_“Todo partido político que prometa cambios en la política debe ser un cambio en sí mismo si quiere ser creíble”_ I.Baixauli
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daparty/web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
